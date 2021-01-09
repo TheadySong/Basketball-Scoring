@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Basketball Scoring</string>
+    <string name="name">Name</string>
+    <string name="version">version</string>
+    <string name="todo">TODO</string>
+    <string name="team1_name">Team A</string>
+    <string name="button_text_add_1">+1</string>
+    <string name="button_text_add_2">+2</string>
+    <string name="button_text_add_3">+3</string>
+    <string name="button_undo">undo</string>
+    <string name="team2_name">Team B</string>
+    <string name="button_reset">reset</string>
+</resources>
